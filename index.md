@@ -1,9 +1,9 @@
 ## Virtual Neuro Journal Club
 Join us every other Tuesday at 11am EDT/5pm CET!
 
-![Universities' logos](McGill.png) 
-![Universities' logos](KI.png)
-![Universities' logos](UofT.png)
+<img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/McGill.png" width="200"> 
+<img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/KI.png" width="200">
+<img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/UofT.png" width="200">
 
 ### Schedule
 
@@ -13,15 +13,6 @@ Join us every other Tuesday at 11am EDT/5pm CET!
 | `April 28th` | Giulia Baracchini | *Machine Learning and ANNs* | To be added | To be added |
 | `May 12th` | Shireen Parimoo | *Overview on DTI* | To be added | To be added |
 | `May 26th` | Dr. Randy McIntosh | *Flow and manifolds in cognition and neural networks* | To be added | To be added |
-
-
-
-
-
-
-
-
-
 
 
 
