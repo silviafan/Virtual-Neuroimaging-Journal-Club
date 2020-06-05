@@ -28,5 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Contact
 
 Giulia Baracchini, McGill University: giulia.baracchini@mail.mcgill.ca
+
 Silvia Fanton, Karolinska Institute: silvia.fanton@ki.se
+
 Shireen Parimoo, University of Toronto: sparimoo@research.baycrest.org
