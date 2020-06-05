@@ -1,6 +1,8 @@
 ## Virtual Neuroimaging Journal Club
 Join us every other Tuesday at 11am EDT/5pm CET!
 
+![Universities' logos](url)
+
 ### Schedule
 
 | Date | Speaker | Title |
