@@ -1,9 +1,7 @@
 ## Virtual Neuro Journal Club
 Join us every other Tuesday at 11am EDT/5pm CET!
 
-<img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/McGill.png" width="200"> 
-<img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/KI.png" width="200">
-<img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/UofT.png" width="200">
+<img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/McGill.png" width="200"> <img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/KI.png" width="200"> <img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/UofT.png" width="200">
 
 ### Schedule
 
