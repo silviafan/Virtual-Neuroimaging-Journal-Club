@@ -1,6 +1,5 @@
 ## Virtual Neuroimaging Journal Club
 Join us every other Tuesday at 11am EDT/5pm CET!
-Did you know that we also have a Slack channel? Contact us if you want to be added.
 
 ![Universities' logos](McGill.png) 
 ![Universities' logos](KI.png)
