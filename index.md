@@ -1,4 +1,5 @@
 ## Virtual Neuroimaging Journal Club
+Join us every other Tuesday at 11am EDT/5pm CET!
 
 ### Schedule
 
@@ -14,8 +15,9 @@
 
 ### PowerPoint slides
 
-### Contact
+### Slack Channel
 
+### Contact
 Giulia Baracchini, McGill University: giulia.baracchini@mail.mcgill.ca
 
 Silvia Fanton, Karolinska Institute: silvia.fanton@ki.se
