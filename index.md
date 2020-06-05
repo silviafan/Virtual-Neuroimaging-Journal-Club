@@ -26,9 +26,10 @@ Join us every other Tuesday at 11am EDT/5pm CET!
 
 
 ### Contact
+If you would like to present a paper, your work or make any suggestions on potential speakers, please contact:
 
-| Giulia Baracchini |   McGill University   | giulia.baracchini@mail.mcgill.ca |
+| Giulia Baracchini, McGill University:   giulia.baracchini@mail.mcgill.ca |
 
-|   Silvia Fanton   |  Karolinska Institute |      silvia.fanton@ki.se         |
+| Silvia Fanton, Karolinska Institute:         silvia.fanton@ki.se         |
 
-|  Shireen Parimoo  | University of Toronto |  sparimoo@research.baycrest.org  |
+| Shireen Parimoo, University of Toronto:  sparimoo@research.baycrest.org  |
