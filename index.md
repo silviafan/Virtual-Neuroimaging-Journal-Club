@@ -12,7 +12,7 @@ Did you know that we also have a Slack channel? Contact us if you want to be add
 | :------: | :------: | :------: | :------: | :------: |
 | `April 14th` | Silvia Fanton | *Temporal Network Theory* | To be added | To be added |
 | `April 28th` | Giulia Baracchini | *Machine Learning and ANNs* | To be added | To be added |
-| `May 12th` | Shireen Parimoo | *Overview on DTI* | To be added | To be added | To be added |
+| `May 12th` | Shireen Parimoo | *Overview on DTI* | To be added | To be added |
 | `May 26th` | Dr. Randy McIntosh | *Flow and manifolds in cognition and neural networks* | To be added | To be added |
 
 
