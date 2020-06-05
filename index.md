@@ -11,9 +11,9 @@ Join us every other Tuesday at 11am EDT/5pm CET!
 | `April 28th` | Giulia Baracchini | *Machine Learning and ANNs* | To be added | 
 | `May 12th` | Shireen Parimoo | *Overview on DTI* | To be added | 
 | `May 26th` | Dr. Randy McIntosh | *Flow and manifolds in cognition and neural networks* | To be added | 
-| `June 9th` | TBD | TBD | TBD |
+| `June 9th` | TBD | TBD | To be added |
 | `June 23rd` | No meeting - OHBM | --- | --- |
-| `July 7th` | TBD | TBD | TBD |
+| `July 7th` | TBD | TBD | To be added |
 | `July 21st` | Dr. Nicolai Franzmeier | TBD | To be added |
 | `August 4th` | Dr. Danilo Bzdok | TBD | To be added |
 
