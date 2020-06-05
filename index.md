@@ -25,8 +25,8 @@ Join us every other Tuesday at 11am EDT/5pm CET!
 
 ### Contact
 
-Giulia Baracchini | McGill University | giulia.baracchini@mail.mcgill.ca
+| Giulia Baracchini | McGill University | giulia.baracchini@mail.mcgill.ca |
 
-Silvia Fanton | Karolinska Institute | silvia.fanton@ki.se
+| Silvia Fanton | Karolinska Institute | silvia.fanton@ki.se |
 
-Shireen Parimoo | University of Toronto | sparimoo@research.baycrest.org
+| Shireen Parimoo | University of Toronto | sparimoo@research.baycrest.org |
