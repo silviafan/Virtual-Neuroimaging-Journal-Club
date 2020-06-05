@@ -26,4 +26,4 @@ If you would like to present a paper, your work or make any suggestions on poten
 
 | Shireen Parimoo, University of Toronto:  sparimoo@research.baycrest.org  |
 
-<img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/McGill.png" width="200" class="inline"/> <img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/KI.png" width="200" class="inline"/> <img src="https://github.com/giuliabaracc/Virtual-Neuroimaging-Journal-Club/blob/master/UofT.png" width="200" class="inline"/>
+<img src="/images/McGill.png" width="200" class="inline"/> <img src="/images/KI.png" width="200" class="inline"/> <img src="/images/UofT.png" width="200" class="inline"/>
