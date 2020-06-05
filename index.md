@@ -1,5 +1,6 @@
 ## Virtual Neuroimaging Journal Club
 Join us every other Tuesday at 11am EDT/5pm CET!
+Did you know that we also have a Slack channel? Contact us if you want to be added.
 
 ![Universities' logos](McGill.png) 
 ![Universities' logos](KI.png)
@@ -7,21 +8,13 @@ Join us every other Tuesday at 11am EDT/5pm CET!
 
 ### Schedule
 
-| Date | Speaker | Title |
-| :------: | :------: | :------: |
-| `April 14th` | Silvia Fanton | *Temporal Network Theory* |
-| `April 28th` | Giulia Baracchini | *Machine Learning and ANNs* |
-| `May 12th` | Shireen Parimoo | *Overview on DTI* |
-| `May 26th` | Dr. Randy McIntosh | *Flow and manifolds in cognition and neural networks* |
+| Date | Speaker | Title | Zoom Link | PowerPoint |
+| :------: | :------: | :------: | :------: | :------: |
+| `April 14th` | Silvia Fanton | *Temporal Network Theory* | To be added | To be added |
+| `April 28th` | Giulia Baracchini | *Machine Learning and ANNs* | To be added | To be added |
+| `May 12th` | Shireen Parimoo | *Overview on DTI* | To be added | To be added | To be added |
+| `May 26th` | Dr. Randy McIntosh | *Flow and manifolds in cognition and neural networks* | To be added | To be added |
 
-
-
-
-### Zoom Recordings
-
-### PowerPoint slides
-
-### Slack Channel
 
 ### Contact
 
