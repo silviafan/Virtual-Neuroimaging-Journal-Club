@@ -19,7 +19,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23A79B8E&ctz=America%2FToronto&src=bzhnb2YxdTlrM2xsdGdhY2lscmQyMDlmbGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23616161&showTitle=1&showNav=1&showPrint=0&showTabs=1&showCalendars=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -27,4 +27,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Giulia Baracchini, McGill University: giulia.baracchini@mail.mcgill.ca
+Silvia Fanton, Karolinska Institute: silvia.fanton@ki.se
+Shireen Parimoo, University of Toronto: sparimoo@research.baycrest.org
