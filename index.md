@@ -4,7 +4,7 @@
 
 ```
 | Date | Speaker | Title |
-| ------------ | ----------------- | ---------------------------------------------------- |
+| ------ | ------ | ------ |
 | `April 14th` | Silvia Fanton | *Temporal Network Theory* |
 | `April 28th` | Giulia Baracchini | *Machine Learning and ANNs* |
 | `May 12th` | Shireen Parimoo | *Overview on DTI* |
