@@ -2,13 +2,11 @@
 
 ### Schedule
 
-```
 ---
 Date: April 14th 2020
 title: Temporal Network Theory
 Speaker: Silvia Fanton
 ---
-```
 
 ### Zoom Recordings
 
