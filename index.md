@@ -1,4 +1,4 @@
-### Virtual Neuroimaging Journal Club
+## Virtual Neuroimaging Journal Club
 
 ### Schedule
 
